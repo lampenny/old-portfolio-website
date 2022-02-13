@@ -1,0 +1,40 @@
+.header {
+    /* height: 75vh; */
+    padding-bottom: 48px;
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.picture {
+    height: 420px;
+}
+
+.header-info {
+    font-size: 24px;
+}
+
+.info-name {
+    font-size: 32px;
+    color: #DB93B3;
+}
+
+@media only screen and (max-width: 720px) {
+    .header-top {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .picture {
+      height: 280px;
+    }
+    .header-info {
+      font-size: 20px;
+    }
+    .info-name {
+      font-size: 26px;
+    }
+}

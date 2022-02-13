@@ -1,6 +1,7 @@
 import './projects.css';
 import { ProjectData } from "../../../data/projects.jsx";
 import ProjectCard from './ProjectCard';
+import 'animate.css';
 
 const Projects = () => {
   const data = ProjectData;

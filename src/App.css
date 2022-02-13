@@ -1,4 +1,5 @@
 body {
     font-family: 'Work Sans', sans-serif;
-    background-color: whitesmoke;
+    background: rgb(235,234,234);
+    background: linear-gradient(180deg, rgba(235,234,234,1) 0%, rgba(255,255,255,1) 36%);
 }

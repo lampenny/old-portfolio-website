@@ -1,20 +1,24 @@
 import './body.css';
-import About from './about/About';
+import Header from './header/Header';
 import Projects from './projects/Projects';
 import Skills from './skills/Skills';
+import About from './about/About';
 import Contact from './contact/Contact';
 
 const Body = () => {
   return (
     <div className="body">
-      <section id="about">
-        <About />
+      <section id="header">
+        <Header />
       </section>
       <section id="projects">
         <Projects />
       </section>
       <section id="skills">
         <Skills />
+      </section>
+      <section id="header">
+        <About />
       </section>
       <section id="contact">
         <Contact />

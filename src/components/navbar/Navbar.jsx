@@ -5,6 +5,7 @@ import Mobile from './mobile/index';
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
+
   const handleTitleClick = () => {
     window.scrollTo(0, 0);
   };
