@@ -8,8 +8,8 @@ const About = () => {
        <p>
         I'm an ex Advertising creative who loves building things with code.
         I've always been a curious creative so one day when my friend told me about a website
-        they had built from scratch using Javascript, I was amazed and as a person
-        who loves to create.</p>
+        they had built from scratch using Javascript I was amazed and as a person
+        who loves to create I was hooked.</p>
         <p>I began to learn Javascript the following week and I was soon able to build
         my own simple websites. I've self-taught for a year, coding almost every day and since starting
         my coding career, I've really grown as a developer yet I'm still seeking to learn more to raise
