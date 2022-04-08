@@ -23,11 +23,11 @@ export const ProjectData = [
     },
     {
         id: 3,
-        title: "Facial Recognition App",
-        about: "A face recognition app that detects faces in photos using a Clarifai API. Built with React using class components, in this app users are able to register and sign in; insert URL images to detect faces; track their count for number of images submitted. Requests to the REST server are handled using axios with server side form validation.",
-        tags: ["Rest API", "PostgreSQL", "NodeJS", "React"],
-        demo: "https://smart-brainapp.netlify.app",
-        github: "https://github.com/lampenny/smart-brain",
+        title: "Quiz App",
+        about: "A quiz app built with TypeScript and styled-components.",
+        tags: ["TypeScript", "API", "React"],
+        demo: "https://quiz-app-pl.netlify.app/",
+        github: "https://github.com/lampenny/quizapp",
         image: project3,
     },
 ];
