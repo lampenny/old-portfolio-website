@@ -8,16 +8,24 @@ export const SkillsData = [
         icon: <i className="devicon-javascript-plain colored"></i>,
       },
       {
-        name: "HTML",
-        icon: <i className="devicon-html5-plain colored"></i>,
-      },
-      {
-        name: "CSS",
-        icon: <i className="devicon-css3-plain colored"></i>,
+        name: "TypeScript",
+        icon: <i className="devicon-typescript-plain colored"></i>,
       },
       {
         name: "React",
         icon: <i className="devicon-react-original colored"></i>,
+      },
+      {
+        name: "TailwindCSS",
+        icon: <i className="devicon-tailwindcss-plain colored"></i>,
+      },
+      {
+        name: "HTML5",
+        icon: <i className="devicon-html5-plain colored"></i>,
+      },
+      {
+        name: "CSS3",
+        icon: <i className="devicon-css3-plain colored"></i>,
       },
       {
         name: "Redux",

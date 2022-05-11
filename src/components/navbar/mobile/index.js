@@ -11,9 +11,9 @@ const Mobile = ({ isOpen, setIsOpen }) => {
         {/* <a href='#about' className="mobile-option">
           <i className="fi fi-rr-portrait option-icon"></i>&nbsp;About
         </a> */}
-        <a href='#projects' className="mobile-option">
+        {/* <a href='#projects' className="mobile-option">
           <i className="fi fi-rr-duplicate option-icon"></i>&nbsp;Projects
-        </a>
+        </a> */}
         <a href='#skills' className="mobile-option">
           <i className="fi fi-rr-cube option-icon"></i>&nbsp;Skills
         </a>

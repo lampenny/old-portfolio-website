@@ -7,9 +7,9 @@ const Web = () => {
         {/* <a href='#about'>
           <i className="fi fi-rr-portrait option-icon"></i>&nbsp;About
         </a> */}
-        <a href='#projects'>
+        {/* <a href='#projects'>
           <i className="fi fi-rr-duplicate option-icon"></i>&nbsp;Projects
-        </a>
+        </a> */}
         <a href='#skills'>
           <i className="fi fi-rr-cube option-icon"></i>&nbsp;Skills
         </a>

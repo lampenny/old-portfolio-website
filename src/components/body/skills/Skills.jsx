@@ -7,7 +7,7 @@ const Skills = () => {
 
   return (
     <div className="skills">
-      <label className="section-title">Languages & Tools</label>
+      <label className="section-title">My Toolbox</label>
       <div className="skills-container">
         {data.map((item) => {
           return (
